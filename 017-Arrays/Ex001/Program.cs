@@ -4,16 +4,6 @@ internal class Program
 {
     private static void Main(string[] args)
     {
-        var days = new string[7];
-
-        days[0] = "Monday";
-        days[1] = "Tuesday";
-        days[2] = "Wednesday";
-        days[3] = "Thursday";
-        days[4] = "Friday";
-        days[5] = "Saturday";
-        days[5] = "Sunday";
-
         string[] moreDays =
         [
             "Invalid day!",

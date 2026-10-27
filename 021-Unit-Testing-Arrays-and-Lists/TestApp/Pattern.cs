@@ -5,11 +5,9 @@ namespace TestApp;
 
 public class Pattern
 {
-    public static int[] SortInPattern(int[]? arr)
+    public static int[] SortInPattern(int[] arr)
     {
-        Array.Sort(arr);
-
-        var distinctList = arr.Distinct().ToArray();
+        var distinctList = arr.Distinct().Order().ToArray();
 
         var result = new int[distinctList.Length];
         var left = 0;

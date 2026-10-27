@@ -1,3 +1,5 @@
+﻿using TestApp;
+
 namespace Tests;
 
 public class CenterPointTests

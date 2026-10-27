@@ -6,7 +6,6 @@ public class Reverse
 {
     public static string ReverseArray(int[] arr)
     {
-        Array.Reverse(arr);
-        return string.Join(" ", arr);
+        return string.Join(" ", Enumerable.Reverse(arr));
     }
 }

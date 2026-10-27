@@ -5,19 +5,20 @@ namespace TestApp;
 
 public class AdjacentEqual
 {
-    public static string Sum(List<int>? numbers)
+    public static string Sum(List<int> numbers)
     {
         var result = new List<int>();
 
-        for (var i = 0; i < numbers.Count; i++)
+        foreach (var number in numbers)
         {
-            if (i == 0 || numbers[i] != numbers[i - 1])
-            {
-                result.Add(numbers[i]);
-                continue;
-            }
+            result.Add(number);
 
-            result[result.Count - 1] += numbers[i];
+            // a fresh sum can equal its left neighbour, so keep folding
+            while (result.Count > 1 && result[^1] == result[^2])
+            {
+                result[^2] += result[^1];
+                result.RemoveAt(result.Count - 1);
+            }
         }
 
         return string.Join(" ", result);

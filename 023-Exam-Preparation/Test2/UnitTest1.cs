@@ -1,3 +1,5 @@
+﻿using TestApp2;
+
 namespace Test2;
 
 public class Tests

@@ -109,4 +109,14 @@ public class AdjacentEqualTests
         // Assert
         Assert.That(actualResult, Is.EqualTo(expectedResult));
     }
+
+    [TestCase(new[] { 3, 3, 6, 1 }, "12 1")]
+    [TestCase(new[] { 8, 2, 2, 4, 8, 16 }, "16 8 16")]
+    [TestCase(new[] { 5, 4, 2, 1, 1, 4 }, "5 8 4")]
+    public void Test_Sum_NewSumEqualsNeighbour_ShouldKeepSumming(int[] numbers, string expectedResult)
+    {
+        string actualResult = AdjacentEqual.Sum(numbers.ToList());
+
+        Assert.That(actualResult, Is.EqualTo(expectedResult));
+    }
 }

@@ -47,7 +47,7 @@ public class MatrixTests
         //act
 
         List<List<int>> actualResult = Matrix.MatrixAddition(matrixA, matrixB);
-        var actualResultCount = expectedResult.Count;
+        var actualResultCount = actualResult.Count;
 
         Assert.AreEqual(expectedResultCount, actualResultCount);
         Assert.That(expectedResult, Is.EqualTo(actualResult));

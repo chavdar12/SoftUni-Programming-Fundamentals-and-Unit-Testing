@@ -27,4 +27,10 @@ public class FactorialTests
         //assert
         Assert.AreEqual(6, result);
     }
+
+    [Test]
+    public void Test_CalculateFactorial_InputNegative_Throws()
+    {
+        Assert.Throws<ArgumentOutOfRangeException>(() => Factorial.CalculateFactorial(-1));
+    }
 }

@@ -5,13 +5,13 @@ internal class Program
     private static void Main(string[] args)
     {
         Console.WriteLine("Please, enter your password.");
-        var passWord = "";
+        var passWord = Console.ReadLine();
 
         while (passWord != "myPass")
         {
-            passWord = Console.ReadLine();
             Console.WriteLine("Wrong Pass");
             Console.WriteLine("Please enter new password");
+            passWord = Console.ReadLine();
         }
 
         Console.WriteLine("Welcome");

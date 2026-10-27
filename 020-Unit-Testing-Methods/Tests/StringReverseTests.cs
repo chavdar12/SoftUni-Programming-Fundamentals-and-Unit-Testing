@@ -43,7 +43,6 @@ public class StringReverseTests
         string actual = StringReverse.Reverse(input);
 
         Assert.AreEqual(expectedResult, actual);
-        Assert.AreNotEqual(expectedResult, actual);
         Assert.AreEqual(input.Length, actual.Length);
         Assert.IsNotEmpty(actual);
     }

@@ -14,7 +14,7 @@ internal class Program
             .ToArray();
 
 
-        var isIdentical = !numbersOne.Where((t, i) => t != numbersTwo[i]).Any();
+        var isIdentical = numbersOne.SequenceEqual(numbersTwo);
 
         Console.WriteLine(isIdentical ? "Arrays are identical." : "Arrays are not identical.");
     }

@@ -15,7 +15,7 @@ internal class Program
             var currentLastDigit = tempNumber % 10;
             tempNumber = tempNumber / 10;
 
-            if (n % currentLastDigit != 0)
+            if (currentLastDigit == 0 || n % currentLastDigit != 0)
             {
                 isSpecialNumber = false;
                 break;

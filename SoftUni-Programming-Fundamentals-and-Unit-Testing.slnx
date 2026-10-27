@@ -1,0 +1,388 @@
+<Solution>
+  <Folder Name="/002-Simple-Commands/" />
+  <Folder Name="/002-Simple-Commands/Ex001/">
+    <Project Path="002-Simple-Commands/Ex001/002-Ex001.csproj" />
+  </Folder>
+  <Folder Name="/002-Simple-Commands/Ex002/">
+    <Project Path="002-Simple-Commands/Ex002/002-Ex002.csproj" />
+  </Folder>
+  <Folder Name="/002-Simple-Commands/Ex003/">
+    <Project Path="002-Simple-Commands/Ex003/002-Ex003.csproj" />
+  </Folder>
+  <Folder Name="/002-Simple-Commands/Ex004/">
+    <Project Path="002-Simple-Commands/Ex004/002-Ex004.csproj" />
+  </Folder>
+  <Folder Name="/002-Simple-Commands/Ex005/">
+    <Project Path="002-Simple-Commands/Ex005/002-Ex005.csproj" />
+  </Folder>
+  <Folder Name="/003-Visual-Studio/" />
+  <Folder Name="/003-Visual-Studio/Ex001/">
+    <Project Path="003-Visual-Studio/Ex001/003-Ex001.csproj" />
+  </Folder>
+  <Folder Name="/003-Visual-Studio/Ex002/">
+    <Project Path="003-Visual-Studio/Ex002/003-Ex002.csproj" />
+  </Folder>
+  <Folder Name="/003-Visual-Studio/Ex003/">
+    <Project Path="003-Visual-Studio/Ex003/003-Ex003.csproj" />
+  </Folder>
+  <Folder Name="/003-Visual-Studio/Ex004/">
+    <Project Path="003-Visual-Studio/Ex004/003-Ex004.csproj" />
+  </Folder>
+  <Folder Name="/003-Visual-Studio/Ex005/">
+    <Project Path="003-Visual-Studio/Ex005/003-Ex005.csproj" />
+  </Folder>
+  <Folder Name="/004-Exercise-Simple-Commands-and-Visual-Studio/" />
+  <Folder Name="/004-Exercise-Simple-Commands-and-Visual-Studio/Ex001/">
+    <Project Path="004-Exercise-Simple-Commands-and-Visual-Studio/Ex001/004-Ex001.csproj" />
+  </Folder>
+  <Folder Name="/004-Exercise-Simple-Commands-and-Visual-Studio/Ex002/">
+    <Project Path="004-Exercise-Simple-Commands-and-Visual-Studio/Ex002/004-Ex002.csproj" />
+  </Folder>
+  <Folder Name="/004-Exercise-Simple-Commands-and-Visual-Studio/Ex003/">
+    <Project Path="004-Exercise-Simple-Commands-and-Visual-Studio/Ex003/004-Ex003.csproj" />
+  </Folder>
+  <Folder Name="/004-Exercise-Simple-Commands-and-Visual-Studio/Ex004/">
+    <Project Path="004-Exercise-Simple-Commands-and-Visual-Studio/Ex004/004-Ex004.csproj" />
+  </Folder>
+  <Folder Name="/004-Exercise-Simple-Commands-and-Visual-Studio/Ex005/">
+    <Project Path="004-Exercise-Simple-Commands-and-Visual-Studio/Ex005/004-Ex005.csproj" />
+  </Folder>
+  <Folder Name="/004-Exercise-Simple-Commands-and-Visual-Studio/Ex006/">
+    <Project Path="004-Exercise-Simple-Commands-and-Visual-Studio/Ex006/004-Ex006.csproj" />
+  </Folder>
+  <Folder Name="/005-Data-Types-and-Variables/" />
+  <Folder Name="/005-Data-Types-and-Variables/Ex001/">
+    <Project Path="005-Data-Types-and-Variables/Ex001/005-Ex001.csproj" />
+  </Folder>
+  <Folder Name="/005-Data-Types-and-Variables/Ex002/">
+    <Project Path="005-Data-Types-and-Variables/Ex002/005-Ex002.csproj" />
+  </Folder>
+  <Folder Name="/005-Data-Types-and-Variables/Ex003/">
+    <Project Path="005-Data-Types-and-Variables/Ex003/005-Ex003.csproj" />
+  </Folder>
+  <Folder Name="/005-Data-Types-and-Variables/Ex004/">
+    <Project Path="005-Data-Types-and-Variables/Ex004/005-Ex004.csproj" />
+  </Folder>
+  <Folder Name="/005-Data-Types-and-Variables/Ex005/">
+    <Project Path="005-Data-Types-and-Variables/Ex005/005-Ex005.csproj" />
+  </Folder>
+  <Folder Name="/005-Data-Types-and-Variables/Ex006/">
+    <Project Path="005-Data-Types-and-Variables/Ex006/005-Ex006.csproj" />
+  </Folder>
+  <Folder Name="/005-Data-Types-and-Variables/Ex007/">
+    <Project Path="005-Data-Types-and-Variables/Ex007/005-Ex007.csproj" />
+  </Folder>
+  <Folder Name="/006-Simple-Calculations/" />
+  <Folder Name="/006-Simple-Calculations/Ex001/">
+    <Project Path="006-Simple-Calculations/Ex001/006-Ex001.csproj" />
+  </Folder>
+  <Folder Name="/006-Simple-Calculations/Ex002/">
+    <Project Path="006-Simple-Calculations/Ex002/006-Ex002.csproj" />
+  </Folder>
+  <Folder Name="/006-Simple-Calculations/Ex003/">
+    <Project Path="006-Simple-Calculations/Ex003/006-Ex003.csproj" />
+  </Folder>
+  <Folder Name="/006-Simple-Calculations/Ex004/">
+    <Project Path="006-Simple-Calculations/Ex004/006-Ex004.csproj" />
+  </Folder>
+  <Folder Name="/006-Simple-Calculations/Ex005/">
+    <Project Path="006-Simple-Calculations/Ex005/006-Ex005.csproj" />
+  </Folder>
+  <Folder Name="/006-Simple-Calculations/Ex006/">
+    <Project Path="006-Simple-Calculations/Ex006/006-Ex006.csproj" />
+  </Folder>
+  <Folder Name="/006-Simple-Calculations/Ex007/">
+    <Project Path="006-Simple-Calculations/Ex007/006-Ex007.csproj" />
+  </Folder>
+  <Folder Name="/007-Exercise-Data-Types-Variables-and-Simple-Calculations/" />
+  <Folder Name="/007-Exercise-Data-Types-Variables-and-Simple-Calculations/Ex001/">
+    <Project Path="007-Exercise-Data-Types-Variables-and-Simple-Calculations/Ex001/007-Ex001.csproj" />
+  </Folder>
+  <Folder Name="/008-Simple-Conditional-Statements/" />
+  <Folder Name="/008-Simple-Conditional-Statements/Ex001/">
+    <Project Path="008-Simple-Conditional-Statements/Ex001/008-Ex001.csproj" />
+  </Folder>
+  <Folder Name="/008-Simple-Conditional-Statements/Ex002/">
+    <Project Path="008-Simple-Conditional-Statements/Ex002/008-Ex002.csproj" />
+  </Folder>
+  <Folder Name="/008-Simple-Conditional-Statements/Ex003/">
+    <Project Path="008-Simple-Conditional-Statements/Ex003/008-Ex003.csproj" />
+  </Folder>
+  <Folder Name="/008-Simple-Conditional-Statements/Ex004/">
+    <Project Path="008-Simple-Conditional-Statements/Ex004/008-Ex004.csproj" />
+  </Folder>
+  <Folder Name="/008-Simple-Conditional-Statements/Ex005/">
+    <Project Path="008-Simple-Conditional-Statements/Ex005/008-Ex005.csproj" />
+  </Folder>
+  <Folder Name="/008-Simple-Conditional-Statements/Ex006/">
+    <Project Path="008-Simple-Conditional-Statements/Ex006/008-Ex006.csproj" />
+  </Folder>
+  <Folder Name="/008-Simple-Conditional-Statements/Ex007/">
+    <Project Path="008-Simple-Conditional-Statements/Ex007/008-Ex007.csproj" />
+  </Folder>
+  <Folder Name="/008-Simple-Conditional-Statements/Ex008/">
+    <Project Path="008-Simple-Conditional-Statements/Ex008/008-Ex008.csproj" />
+  </Folder>
+  <Folder Name="/008-Simple-Conditional-Statements/Ex009/">
+    <Project Path="008-Simple-Conditional-Statements/Ex009/008-Ex009.csproj" />
+  </Folder>
+  <Folder Name="/008-Simple-Conditional-Statements/Ex010/">
+    <Project Path="008-Simple-Conditional-Statements/Ex010/008-Ex010.csproj" />
+  </Folder>
+  <Folder Name="/008-Simple-Conditional-Statements/Ex011/">
+    <Project Path="008-Simple-Conditional-Statements/Ex011/008-Ex011.csproj" />
+  </Folder>
+  <Folder Name="/009-Complex-Conditional-Statements/" />
+  <Folder Name="/009-Complex-Conditional-Statements/Ex001/">
+    <Project Path="009-Complex-Conditional-Statements/Ex001/009-Ex001.csproj" />
+  </Folder>
+  <Folder Name="/009-Complex-Conditional-Statements/Ex002/">
+    <Project Path="009-Complex-Conditional-Statements/Ex002/009-Ex002.csproj" />
+  </Folder>
+  <Folder Name="/009-Complex-Conditional-Statements/Ex003/">
+    <Project Path="009-Complex-Conditional-Statements/Ex003/009-Ex003.csproj" />
+  </Folder>
+  <Folder Name="/009-Complex-Conditional-Statements/Ex004/">
+    <Project Path="009-Complex-Conditional-Statements/Ex004/009-Ex004.csproj" />
+  </Folder>
+  <Folder Name="/009-Complex-Conditional-Statements/Ex005/">
+    <Project Path="009-Complex-Conditional-Statements/Ex005/009-Ex005.csproj" />
+  </Folder>
+  <Folder Name="/009-Complex-Conditional-Statements/Ex006/">
+    <Project Path="009-Complex-Conditional-Statements/Ex006/009-Ex006.csproj" />
+  </Folder>
+  <Folder Name="/009-Complex-Conditional-Statements/Ex007/">
+    <Project Path="009-Complex-Conditional-Statements/Ex007/009-Ex007.csproj" />
+  </Folder>
+  <Folder Name="/009-Complex-Conditional-Statements/Ex008/">
+    <Project Path="009-Complex-Conditional-Statements/Ex008/009-Ex008.csproj" />
+  </Folder>
+  <Folder Name="/009-Complex-Conditional-Statements/Ex009/">
+    <Project Path="009-Complex-Conditional-Statements/Ex009/009-Ex009.csproj" />
+  </Folder>
+  <Folder Name="/010-Exercise-Simple-and-Complex-Conditional-Statements/" />
+  <Folder Name="/010-Exercise-Simple-and-Complex-Conditional-Statements/Ex001/">
+    <Project Path="010-Exercise-Simple-and-Complex-Conditional-Statements/Ex001/010-Ex001.csproj" />
+  </Folder>
+  <Folder Name="/011-For-Loop/" />
+  <Folder Name="/011-For-Loop/Ex001/">
+    <Project Path="011-For-Loop/Ex001/011-Ex001.csproj" />
+  </Folder>
+  <Folder Name="/011-For-Loop/Ex002/">
+    <Project Path="011-For-Loop/Ex002/011-Ex002.csproj" />
+  </Folder>
+  <Folder Name="/011-For-Loop/Ex003/">
+    <Project Path="011-For-Loop/Ex003/011-Ex003.csproj" />
+  </Folder>
+  <Folder Name="/011-For-Loop/Ex004/">
+    <Project Path="011-For-Loop/Ex004/011-Ex004.csproj" />
+  </Folder>
+  <Folder Name="/011-For-Loop/Ex005/">
+    <Project Path="011-For-Loop/Ex005/011-Ex005.csproj" />
+  </Folder>
+  <Folder Name="/011-For-Loop/Ex006/">
+    <Project Path="011-For-Loop/Ex006/011-Ex006.csproj" />
+  </Folder>
+  <Folder Name="/011-For-Loop/Ex007/">
+    <Project Path="011-For-Loop/Ex007/011-Ex007.csproj" />
+  </Folder>
+  <Folder Name="/012-While-Loop/" />
+  <Folder Name="/012-While-Loop/Ex001/">
+    <Project Path="012-While-Loop/Ex001/012-Ex001.csproj" />
+  </Folder>
+  <Folder Name="/013-Exercise-Loops/" />
+  <Folder Name="/013-Exercise-Loops/Ex001/">
+    <Project Path="013-Exercise-Loops/Ex001/013-Ex001.csproj" />
+  </Folder>
+  <Folder Name="/013-Exercise-Loops/Ex002/">
+    <Project Path="013-Exercise-Loops/Ex002/013-Ex002.csproj" />
+  </Folder>
+  <Folder Name="/013-Exercise-Loops/Ex003/">
+    <Project Path="013-Exercise-Loops/Ex003/013-Ex003.csproj" />
+  </Folder>
+  <Folder Name="/013-Exercise-Loops/Ex004/">
+    <Project Path="013-Exercise-Loops/Ex004/013-Ex004.csproj" />
+  </Folder>
+  <Folder Name="/013-Exercise-Loops/Ex005/">
+    <Project Path="013-Exercise-Loops/Ex005/013-Ex005.csproj" />
+  </Folder>
+  <Folder Name="/013-Exercise-Loops/Ex006/">
+    <Project Path="013-Exercise-Loops/Ex006/013-Ex006.csproj" />
+  </Folder>
+  <Folder Name="/013-Exercise-Loops/Ex007/">
+    <Project Path="013-Exercise-Loops/Ex007/013-Ex007.csproj" />
+  </Folder>
+  <Folder Name="/013-Exercise-Loops/Ex008/">
+    <Project Path="013-Exercise-Loops/Ex008/013-Ex008.csproj" />
+  </Folder>
+  <Folder Name="/013-Exercise-Loops/Ex009/">
+    <Project Path="013-Exercise-Loops/Ex009/013-Ex009.csproj" />
+  </Folder>
+  <Folder Name="/014-Nested-Loops/" />
+  <Folder Name="/014-Nested-Loops/Ex001/">
+    <Project Path="014-Nested-Loops/Ex001/014-Ex001.csproj" />
+  </Folder>
+  <Folder Name="/014-Nested-Loops/Ex002/">
+    <Project Path="014-Nested-Loops/Ex002/014-Ex002.csproj" />
+  </Folder>
+  <Folder Name="/014-Nested-Loops/Ex003/">
+    <Project Path="014-Nested-Loops/Ex003/014-Ex003.csproj" />
+  </Folder>
+  <Folder Name="/014-Nested-Loops/Ex004/">
+    <Project Path="014-Nested-Loops/Ex004/014-Ex004.csproj" />
+  </Folder>
+  <Folder Name="/014-Nested-Loops/Ex005/">
+    <Project Path="014-Nested-Loops/Ex005/014-Ex005.csproj" />
+  </Folder>
+  <Folder Name="/014-Nested-Loops/Ex006/">
+    <Project Path="014-Nested-Loops/Ex006/014-Ex006.csproj" />
+  </Folder>
+  <Folder Name="/014-Nested-Loops/Ex007/">
+    <Project Path="014-Nested-Loops/Ex007/014-Ex007.csproj" />
+  </Folder>
+  <Folder Name="/014-Nested-Loops/Ex008/">
+    <Project Path="014-Nested-Loops/Ex008/014-Ex008.csproj" />
+  </Folder>
+  <Folder Name="/014-Nested-Loops/Ex009/">
+    <Project Path="014-Nested-Loops/Ex009/014-Ex009.csproj" />
+  </Folder>
+  <Folder Name="/015-Methods/" />
+  <Folder Name="/015-Methods/Ex001/">
+    <Project Path="015-Methods/Ex001/015-Ex001.csproj" />
+  </Folder>
+  <Folder Name="/015-Methods/Ex002/">
+    <Project Path="015-Methods/Ex002/015-Ex002.csproj" />
+  </Folder>
+  <Folder Name="/015-Methods/Ex003/">
+    <Project Path="015-Methods/Ex003/015-Ex003.csproj" />
+  </Folder>
+  <Folder Name="/015-Methods/Ex004/">
+    <Project Path="015-Methods/Ex004/015-Ex004.csproj" />
+  </Folder>
+  <Folder Name="/015-Methods/Ex005/">
+    <Project Path="015-Methods/Ex005/015-Ex005.csproj" />
+  </Folder>
+  <Folder Name="/015-Methods/Ex006/">
+    <Project Path="015-Methods/Ex006/015-Ex006.csproj" />
+  </Folder>
+  <Folder Name="/015-Methods/Ex007/">
+    <Project Path="015-Methods/Ex007/015-Ex007.csproj" />
+  </Folder>
+  <Folder Name="/015-Methods/Ex008/">
+    <Project Path="015-Methods/Ex008/015-Ex008.csproj" />
+  </Folder>
+  <Folder Name="/015-Methods/Ex009/">
+    <Project Path="015-Methods/Ex009/015-Ex009.csproj" />
+  </Folder>
+  <Folder Name="/016-Exercise-Nested-Loops-and-Methods/" />
+  <Folder Name="/016-Exercise-Nested-Loops-and-Methods/Ex001/">
+    <Project Path="016-Exercise-Nested-Loops-and-Methods/Ex001/016-Ex001.csproj" />
+  </Folder>
+  <Folder Name="/016-Exercise-Nested-Loops-and-Methods/Ex002/">
+    <Project Path="016-Exercise-Nested-Loops-and-Methods/Ex002/016-Ex002.csproj" />
+  </Folder>
+  <Folder Name="/016-Exercise-Nested-Loops-and-Methods/Ex003/">
+    <Project Path="016-Exercise-Nested-Loops-and-Methods/Ex003/016-Ex003.csproj" />
+  </Folder>
+  <Folder Name="/016-Exercise-Nested-Loops-and-Methods/Ex004/">
+    <Project Path="016-Exercise-Nested-Loops-and-Methods/Ex004/016-Ex004.csproj" />
+  </Folder>
+  <Folder Name="/016-Exercise-Nested-Loops-and-Methods/Ex005/">
+    <Project Path="016-Exercise-Nested-Loops-and-Methods/Ex005/016-Ex005.csproj" />
+  </Folder>
+  <Folder Name="/016-Exercise-Nested-Loops-and-Methods/Ex006/">
+    <Project Path="016-Exercise-Nested-Loops-and-Methods/Ex006/016-Ex006.csproj" />
+  </Folder>
+  <Folder Name="/016-Exercise-Nested-Loops-and-Methods/Ex007/">
+    <Project Path="016-Exercise-Nested-Loops-and-Methods/Ex007/016-Ex007.csproj" />
+  </Folder>
+  <Folder Name="/016-Exercise-Nested-Loops-and-Methods/Ex008/">
+    <Project Path="016-Exercise-Nested-Loops-and-Methods/Ex008/016-Ex008.csproj" />
+  </Folder>
+  <Folder Name="/016-Exercise-Nested-Loops-and-Methods/Ex009/">
+    <Project Path="016-Exercise-Nested-Loops-and-Methods/Ex009/016-Ex009.csproj" />
+  </Folder>
+  <Folder Name="/017-Arrays/" />
+  <Folder Name="/017-Arrays/Ex001/">
+    <Project Path="017-Arrays/Ex001/017-Ex001.csproj" />
+  </Folder>
+  <Folder Name="/017-Arrays/Ex002/">
+    <Project Path="017-Arrays/Ex002/017-Ex002.csproj" />
+  </Folder>
+  <Folder Name="/017-Arrays/Ex003/">
+    <Project Path="017-Arrays/Ex003/017-Ex003.csproj" />
+  </Folder>
+  <Folder Name="/017-Arrays/Ex004/">
+    <Project Path="017-Arrays/Ex004/017-Ex004.csproj" />
+  </Folder>
+  <Folder Name="/017-Arrays/Ex005/">
+    <Project Path="017-Arrays/Ex005/017-Ex005.csproj" />
+  </Folder>
+  <Folder Name="/017-Arrays/Ex006/">
+    <Project Path="017-Arrays/Ex006/017-Ex006.csproj" />
+  </Folder>
+  <Folder Name="/018-Lists/" />
+  <Folder Name="/018-Lists/Ex001/">
+    <Project Path="018-Lists/Ex001/018-Ex001.csproj" />
+  </Folder>
+  <Folder Name="/018-Lists/Ex002/">
+    <Project Path="018-Lists/Ex002/018-Ex002.csproj" />
+  </Folder>
+  <Folder Name="/018-Lists/Ex003/">
+    <Project Path="018-Lists/Ex003/018-Ex003.csproj" />
+  </Folder>
+  <Folder Name="/018-Lists/Ex004/">
+    <Project Path="018-Lists/Ex004/018-Ex004.csproj" />
+  </Folder>
+  <Folder Name="/018-Lists/Ex005/">
+    <Project Path="018-Lists/Ex005/018-Ex005.csproj" />
+  </Folder>
+  <Folder Name="/018-Lists/Ex006/">
+    <Project Path="018-Lists/Ex006/018-Ex006.csproj" />
+  </Folder>
+  <Folder Name="/019-Exercise-Arrays-and-Lists/" />
+  <Folder Name="/019-Exercise-Arrays-and-Lists/Ex001/">
+    <Project Path="019-Exercise-Arrays-and-Lists/Ex001/019-Ex001.csproj" />
+  </Folder>
+  <Folder Name="/020-Unit-Testing-Methods/" />
+  <Folder Name="/020-Unit-Testing-Methods/TestApp/">
+    <Project Path="020-Unit-Testing-Methods/TestApp/020-TestApp.csproj" />
+  </Folder>
+  <Folder Name="/020-Unit-Testing-Methods/Tests/">
+    <Project Path="020-Unit-Testing-Methods/Tests/020-Tests.csproj" />
+  </Folder>
+  <Folder Name="/021-Unit-Testing-Arrays-and-Lists/" />
+  <Folder Name="/021-Unit-Testing-Arrays-and-Lists/TestApp/">
+    <Project Path="021-Unit-Testing-Arrays-and-Lists/TestApp/021-TestApp.csproj" />
+  </Folder>
+  <Folder Name="/021-Unit-Testing-Arrays-and-Lists/Tests/">
+    <Project Path="021-Unit-Testing-Arrays-and-Lists/Tests/021-Tests.csproj" />
+  </Folder>
+  <Folder Name="/022-Exercise-Unit-Testing-Methods-Arrays-Lists/" />
+  <Folder Name="/022-Exercise-Unit-Testing-Methods-Arrays-Lists/TestApp/">
+    <Project Path="022-Exercise-Unit-Testing-Methods-Arrays-Lists/TestApp/022-TestApp.csproj" />
+  </Folder>
+  <Folder Name="/022-Exercise-Unit-Testing-Methods-Arrays-Lists/Tests/">
+    <Project Path="022-Exercise-Unit-Testing-Methods-Arrays-Lists/Tests/022-Tests.csproj" />
+  </Folder>
+  <Folder Name="/023-Exam-Preparation/" />
+  <Folder Name="/023-Exam-Preparation/Ex001/">
+    <Project Path="023-Exam-Preparation/Ex001/023-Ex001.csproj" />
+  </Folder>
+  <Folder Name="/023-Exam-Preparation/Ex002/">
+    <Project Path="023-Exam-Preparation/Ex002/023-Ex002.csproj" />
+  </Folder>
+  <Folder Name="/023-Exam-Preparation/Test2/">
+    <Project Path="023-Exam-Preparation/Test2/023-Test2.csproj" />
+  </Folder>
+  <Folder Name="/023-Exam-Preparation/TestApp/">
+    <Project Path="023-Exam-Preparation/TestApp/023-TestApp.csproj" />
+  </Folder>
+  <Folder Name="/023-Exam-Preparation/TestApp2/">
+    <Project Path="023-Exam-Preparation/TestApp2/023-TestApp2.csproj" />
+  </Folder>
+  <Folder Name="/023-Exam-Preparation/Tests/">
+    <Project Path="023-Exam-Preparation/Tests/023-Tests.csproj" />
+  </Folder>
+  <Project Path="ConsoleApps.Tests/ConsoleApps.Tests.csproj" />
+</Solution>

@@ -8,7 +8,7 @@ internal class Program
         var sideB = int.Parse(Console.ReadLine()!);
         var height = int.Parse(Console.ReadLine()!);
 
-        var area = (sideA + sideB) / 2 * height;
+        var area = (sideA + sideB) * height / 2.0;
 
         Console.WriteLine(area);
     }

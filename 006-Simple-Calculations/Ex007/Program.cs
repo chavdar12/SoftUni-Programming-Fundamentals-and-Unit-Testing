@@ -13,7 +13,7 @@ internal class Program
         var priceMarker = markerPackets * 7.20;
         var boardCleanerPrice = boardCleanerLiters * 1.20;
         var priceAllMaterials = pricePen + priceMarker + boardCleanerPrice;
-        var discountedPrice = priceAllMaterials - priceAllMaterials * 0.25;
+        var discountedPrice = priceAllMaterials - priceAllMaterials * discountPercentage / 100.0;
 
         Console.WriteLine(discountedPrice);
     }

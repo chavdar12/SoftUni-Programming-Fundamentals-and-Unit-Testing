@@ -14,12 +14,12 @@ internal class Program
         var factSecondNumber = CalculateFactorial(secondNumber);
 
 
-        Console.WriteLine(factFirstNumber / factSecondNumber);
+        Console.WriteLine($"{factFirstNumber / factSecondNumber:F2}");
 
 
-        static int CalculateFactorial(int number)
+        static double CalculateFactorial(int number)
         {
-            var fact = 1;
+            double fact = 1;
             for (var i = 1; i <= number; i++) fact = fact * i;
 
             return fact;

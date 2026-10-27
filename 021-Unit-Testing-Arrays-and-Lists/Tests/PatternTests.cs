@@ -51,4 +51,14 @@ public class PatternTests
 
         Assert.AreEqual(expectedResult, actualResult);
     }
+
+    [Test]
+    public void Test_SortInPattern_DoesNotModifyInputArray()
+    {
+        var intsArray = new int[] { 3, 1, 2 };
+
+        Pattern.SortInPattern(intsArray);
+
+        Assert.AreEqual(new int[] { 3, 1, 2 }, intsArray);
+    }
 }

@@ -45,6 +45,6 @@ internal class Program
 
     private static string GetGreaterString(string string1, string string2)
     {
-        return string1 == string2 ? string1 : string2;
+        return string.CompareOrdinal(string1, string2) > 0 ? string1 : string2;
     }
 }

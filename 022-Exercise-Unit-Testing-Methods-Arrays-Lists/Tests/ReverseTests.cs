@@ -1,4 +1,4 @@
-using NUnit.Framework;
+﻿using NUnit.Framework;
 using System;
 
 namespace TestApp.UnitTests;
@@ -54,5 +54,15 @@ public class ReverseTests
 
 
         //throw new NotImplementedException();
+    }
+
+    [Test]
+    public void Test_ReverseArray_DoesNotModifyInputArray()
+    {
+        int[] array = { 1, 2, 3 };
+
+        Reverse.ReverseArray(array);
+
+        Assert.That(array, Is.EqualTo(new[] { 1, 2, 3 }));
     }
 }
